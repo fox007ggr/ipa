@@ -13,18 +13,6 @@
                     <key>url</key>
                     <string>http://www.51iehome.com/air.ipa</string>
                 </dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://www.51iehome.com</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://www.51iehome.com/</string>
-				</dict>				
             </array>
             <key>metadata</key>
             <dict>
