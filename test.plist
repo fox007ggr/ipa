@@ -20,7 +20,7 @@
             <key>kind</key>
             <string>software-package</string>
             <key>url</key>
-            <string>http://www.51iehome.com/air.ipa</string>
+            <string>http://down2hs.gwifi.com.cn/gbapp/2015-10-27/gwifi-1.5.4.ipa</string>
           </dict>
         </array>
         <key>metadata</key>
@@ -32,7 +32,7 @@
           <key>kind</key>
           <string>software</string>
           <key>title</key>
-          <string>空气净化器</string>
+          <string>GWiFi手机助手</string>
         </dict>
       </dict>
     </array>
